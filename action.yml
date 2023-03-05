@@ -1,6 +1,6 @@
-name: 'Your name here'
-description: 'Provide a description here'
-author: 'Your name or organization here'
+name: ScoreCard
+description: ScoreCard is a test reporter, reporting results as a comment in your github actions.
+author: Duncan Scuffell <duncanscu@gmail.com>
 inputs:
   token:
     description: GitHub Access Token
